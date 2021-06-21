@@ -1,0 +1,10 @@
+Test date : 2021/01/17
+python : 3.6.8
+cv2 : 4.2.0
+keras : 2.2.5
+numpy : 1.17.2
+PIL : 6.1.0
+tensorboard          : 1.14.0
+tensorflow-estimator : 1.14.0
+tensorflow-gpu       : 1.14.0
+h5py                 : 2.10.0
