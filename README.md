@@ -1,4 +1,4 @@
-# keras-yolo3
+# YOLOv3 with RealSense
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
